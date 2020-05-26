@@ -1,2 +1,2 @@
-# Spam-Classificatier
-Spam Classifier
+# Spam-Classifier
+Classifies Emails as spam or non spam
